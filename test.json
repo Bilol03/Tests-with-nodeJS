@@ -1,0 +1,74 @@
+[
+    {
+        "questionText": "The biggest animal in the world",
+        "options": [
+            {
+                "A": "Whale"
+            },
+            {
+                "B": "Elephant"
+            },
+            {
+                "C": "Shark"
+            },
+            {
+                "D": "Horse"
+            }
+        ],
+        "trueAnswer": "A"
+    },
+    {
+        "questionText": "The most billinair human in the world",
+        "options": [
+            {
+                "A": "Bill Gates"
+            },
+            {
+                "B": "Jeff Bezos"
+            },
+            {
+                "C": "Ilon Musk"
+            },
+            {
+                "D": "Mark Zuckerberk"
+            }
+        ],
+        "trueAnswer": "C"
+    },
+    {
+        "questionText": "The longest river in the world",
+        "options": [
+            {
+                "A": "Neel"
+            },
+            {
+                "B": "Amudarya"
+            },
+            {
+                "C": "Amazon"
+            },
+            {
+                "D": "Angren River"
+            }
+        ],
+        "trueAnswer": "A"
+    },
+    {
+        "questionText": "Who is the creator of the iPhone",
+        "options": [
+            {
+                "A": "Stive Jobs"
+            },
+            {
+                "B": "Bill Gates"
+            },
+            {
+                "C": "Jahongir Ortiqxo'jayev"
+            },
+            {
+                "D": "Mark Zuckerberk"
+            }
+        ],
+        "trueAnswer": "A"
+    }
+]

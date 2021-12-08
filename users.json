@@ -1,0 +1,67 @@
+[
+    {
+        "userName": "BILOL",
+        "correctAnswer": 4,
+        "wrongAnswer": 0
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 1,
+        "wrongAnswer": 3
+    },
+    {
+        "name": "Oybek",
+        "quesNum": 4,
+        "trueAnswers": 1,
+        "wrongAnswer": 3
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 1,
+        "wrongAnswer": 3
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 0,
+        "wrongAnswer": 4
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 1,
+        "wrongAnswer": 3
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 3,
+        "wrongAnswer": 1
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 3,
+        "wrongAnswer": 1
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 3,
+        "wrongAnswer": 1
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 3,
+        "wrongAnswer": 1
+    },
+    {
+        "name": "Bilol",
+        "quesNum": 4,
+        "trueAnswers": 3,
+        "wrongAnswer": 1
+    }
+]
